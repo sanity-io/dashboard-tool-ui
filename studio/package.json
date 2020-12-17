@@ -1,0 +1,27 @@
+{
+  "name": "mysanityproject",
+  "private": true,
+  "version": "1.0.0",
+  "description": "",
+  "main": "package.json",
+  "author": "Knut Melvær <knut@sanity.io>",
+  "license": "UNLICENSED",
+  "keywords": [
+    "sanity"
+  ],
+  "dependencies": {
+    "@sanity/base": "2.1.2-ui.11",
+    "@sanity/components": "2.1.2-ui.11",
+    "@sanity/core": "2.1.2-ui.11",
+    "@sanity/default-layout": "2.1.2-ui.11",
+    "@sanity/default-login": "2.1.2-ui.11",
+    "@sanity/desk-tool": "2.1.2-ui.11",
+    "@sanity/vision": "2.1.2-ui.11",
+    "prop-types": "^15.6",
+    "react": "^16.2",
+    "react-dom": "^16.2",
+    "react-hook-form": "^6.7.0",
+    "react-icons": "^4.1.0",
+    "sanity-plugin-asset-source-unsplash": "^0.1.3"
+  }
+}
